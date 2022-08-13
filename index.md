@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## About Me (Name pronounced Ah-Yu Lo)
+## About Me 
+(name pronounced Ah-Yu Lo)
 
 <img class="profile-picture" src="/images/headshot22sq.jpg" width="200px"/>
 
