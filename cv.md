@@ -1,8 +1,7 @@
 # EDUCATION
 
 >Macaulay Honors College at Hunter College <br></br>             
->Bachelor of Arts, 2018- 2022 <br></br>
->GPA: 3.9 Summa Cum Laude <br></br>
+>Bachelor of Arts, 2018- 2022; GPA: 3.9; Summa Cum Laude <br></br>
 >Majors: Mathematics, Computer Science <br></br> 
 
 ## Honors and Awards:
