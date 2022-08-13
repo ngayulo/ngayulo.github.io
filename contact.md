@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
+* Work Email: [nyulo@flatironinstitute.org](mailto:nyulo@flatironinstitute.org)
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 160 5th Ave, Rm 404
 >
-> London
->
-> United Kingdom
+> New York, New York
+
+> United States
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<p float="left">
+<a href="https://github.com/ngayulo" target="_blank"><img src="/images/octocat.png" height="30" width="30" /></a>
+<a href="https://twitter.com/nyu_lo" target="_blank"><img src="/images/twitter-logo-2.png" height="30" width="30" /></a>
+</p>
