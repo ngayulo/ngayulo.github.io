@@ -10,5 +10,5 @@ I am a research analyst at Flatiron Institute, NYC. I am a recent graduate from 
 
 <p align="center">
 <a href="https://github.com/ngayulo" target="_blank"><img src="/images/octocat.png" width="40px" /></a>
-<a href="https://twitter.com/nyu_lo" target="_blank"><img src="/images/twitter-logo-2.png" width="40px" /></a>
+<a href="https://twitter.com/nyu_lo" target="_blank"><img src="/images/twitter.png" width="40px" /></a>
 </p>
