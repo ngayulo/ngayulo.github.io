@@ -15,7 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
-   link: "Nga Yu Lo CV revised.pdf"
+ - name: "CV"
+   link: "cv"
  - name: "Contact"
    link: "contact"
