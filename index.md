@@ -12,4 +12,5 @@ I currently work as a research analyst at Flatiron Institute, NYC, under the men
 <p align="center">
 <a href="https://github.com/ngayulo" target="_blank"><img src="/images/github.png" width="40px"></a>
 <a href="https://twitter.com/nyu_lo" target="_blank"><img src="/images/twitter.png" width="40px"></a>
+<a href="www.linkedin.com/in/nga-yu-lo-9716021b8" target="_blank"><img src="/images/linkedin.png" width="40px"></a>
 </p>
