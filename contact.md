@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Work Email: [nyulo@flatironinstitute.org](mailto:nyulo@flatironinstitute.org)
+Work Email: [nyulo@flatironinstitute.org](mailto:nyulo@flatironinstitute.org)
 ---
 
 ## Mailing Address
