@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="/images/headshot22.jpg" width="150" height="200">
+<img class="profile-picture" src="/images/headshot22.jpg" width="150" height="100">
 
 Hi! 
 
