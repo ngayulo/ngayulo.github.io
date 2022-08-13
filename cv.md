@@ -1,9 +1,13 @@
 # EDUCATION
 
 >Macaulay Honors College at Hunter College                
+>
 >Bachelor of Arts, 2018- 2022		
+>
 >GPA: 3.9 
+>
 >Summa Cum Laude
+>
 >Majors: Mathematics, Computer Science 
 
 ## Honors and Awards:
@@ -81,7 +85,7 @@ Hunter College, NYC, January 13-16, 2020
 # Other
 **SKILLS**: Python (Scikit Learn, Pytorch, Tensorflow, Matplotlib, Numpy, Scipy, Pandas), C++, Julia, MATLAB, Slurm, Latex, Microsoft Office, GIMP Photoshop, Inkscape
  
-**GITHUB**: [https://github.com/ngayulo]((https://github.com/ngayulo)
+**GITHUB**: [https://github.com/ngayulo](https://github.com/ngayulo)
 
 **LANGUAGES**: Cantonese (native); Spanish (intermediate); German (intermediate)
 
