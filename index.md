@@ -4,10 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="/images/headshot22.jpg" width="150" height="100">
+<img class="profile-picture" src="/images/headshot22sq.jpg"/>
 
-Hi! 
+I am a research analyst at Flatiron Institute, NYC. I am a recent graduate from Macaulay Honors College at Hunter College CUNY and an asprining PhD. Currently being mentored by Dr. SueYeon Chung, I am generally interested in the intersection between artificial intelligence and computational neuroscience, particularly in the representation of information in complex systems. 
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
