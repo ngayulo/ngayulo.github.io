@@ -1,6 +1,5 @@
 title: Nga Yu Lo
-url: "https://ngayulo.github.io/ngayulo"
-baseurl: "/ngayulo"
+url: "https://ngayulo.github.io/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
