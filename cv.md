@@ -14,44 +14,59 @@
      
 # RESEARCH EXPERIENCE  
      
-## Research Analyst
-Flatiron Institute of Simons Foundation, NYC, NY, September 2021-Present
-- Work with Dr. Sueyeon Chung on analyzing the geometry of underlying neural and feature representations and constructing neural network models guided by neuroscience
-- Using methods in statistical physics and machine learning, develop extensions of perceptual manifold theory to study the untangling of feature representations in deep neural networks
-  
-## Research Intern, Massachusetts Institute of Technology Summer Research Program
-Massachusetts Institute of Technology, Cambridge MA, June 2021-August 2021
-- Worked in Dr. James DiCarlo’s lab under the supervision of Dr. Tiago Marques, focused on understanding the neuronal algorithms and circuits underlying visual object recognition
-- Evaluated and improved the performance of computational models on object recognition tasks to predict the behavioral output of the human visual system given out-of-distribution stimuli
- 
-## Research Intern, Englander Institute of Precision Medicine Internship
-Weill Cornell Medical Center, NYC, September 2020-May 2021
-- Developed learning models for predicting sleep disorder in Dr. Olivier Elemento’s lab, focused on innovative approaches to better diagnose, treat, and prevent diseases using high performance computing, math modeling, and artificial intelligence/machine learning
-- Wrote python scripts to process sparse data of sleep patients at the Sleep Neurology Division at Weill Cornell and build a multivariate logistic regression and a random forest model to predict sleep apnea 
- 
-## Research Intern, Research Experience for Undergraduate, funded by NSF
-Oregon State University, June 2020-August 2020
-- Worked on modeling epidemics using SIR-macro models to study the relationship between economic factors and epidemics under the supervision of Dr. Juan Restrepo
-- Implemented a compartmental model of susceptible, infected and recovered population on python and studied Stochastic methods to design a time-dependent economic model with a random characteristic
- 
-# PRESENTATIONS
- 
-- Presented “Evaluating Object Recognition Behavior Consistency on Out-of-Distribution Stimuli” at Hunter College Applied Math Seminar, Hunter College, October 28, 2021. 
-- Presented “Evaluating Object Recognition Behavior Consistency on Out-of-Distribution Stimuli” at MIT Summer Research Program, MIT, August 5, 2021.
-- Presented “Predictive Model for Obstructive Sleep Apnea using Machine Learning Methods” at the annual Undergraduate STEM Research Conference, Hunter College, May 6-7, 2021.
- 
-# WORK EXPERIENCE 
+## Research Analyst, Center for Computational Neuroscience 
+**Flatiron Institute of Simons Foundation, NYC, NY, June 2022-Present (PI: Dr. SueYeon Chung)**
+- Worked on analyzing the geometry of underlying neural representations in artificial and biological
+neural networks, as well as constructing innovative neural network models guided by neuroscience
+- Used methods in statistical physics and machine learning to i) develop extensions of perceptual
+manifold theory to quantify the untangling of feature representations in neural networks, ii) provide
+geometrical interpretations of representational manifolds, iii) interpret the organization of neural
+manifolds in a high dimensional space for both deep neural networks and real neural data
 
-## College Assistant
-Hunter College Dolciani Math Learning Center, NYC, August 2019- May 2022
+## Research Intern, Massachusetts Institute of Technology Summer Research Program 
+**Massachusetts Institute of Technology, Cambridge MA, June 2021-August 2021 (PI: Dr. Jim DiCarlo)**
+- Under the supervision of Dr. Tiago Marques (DiCarlo lab), focused on understanding the neuronal
+algorithms and circuits underlying visual object recognition
+- Evaluated and improved the performance of computational models on object recognition tasks to
+predict the behavioral output of the human visual system given out-of-distribution stimuli
+
+## Research Intern, Englander Institute of Precision Medicine Internship 
+**Weill Cornell Medical Center, NYC, September 2020-May 2021 (PI: Dr. Olivier Elemento)**
+- Developed learning models for predicting sleep disorder, focused on innovative approaches to better
+diagnose, treat, and prevent diseases using high performance computing, mathematical modeling, and
+artificial intelligence/machine learning
+- Wrote python scripts to process sparse data of sleep patients at the Sleep Neurology Division at Weill Cornell and build a multivariate logistic regression and a random forest model to predict sleep apnea 
+
+## Research Intern, Research Experience for Undergraduate, funded by NSF 
+**Oregon State University, June 2020-August 2020 (PI: Dr. Juan Restrepo)**
+- Worked on modeling epidemics using SIR-macro models to study the their relationship with various
+economic factors and epidemics
+- Implemented a compartmental model of susceptible, infected and recovered population on python and
+studied Stochastic methods to design a time-dependent economic model with a random characteristic
+ 
+# PUBLICATIONS AND PREPRINTS
+## Manuscripts:
+- Nga Yu Lo, SueYeon Chung (2022). “Efficient neural representation in the cognitive neuroscience domain: Manifold Capacity in One-vs-rest Recognition Limit.”
+- Devin Goodwin, Nga Yu Lo, Kristen Maggard, Miranda Reed, Juan Restrepo. (2020) “Economic Drivers In Modeling Pandemics”
+
+# TALKS AND PRESENTATIONS
+- "Representational geometry of hierarchical category structures in the monkey inferotemporal cortex." Cosyne 2024, March 3, 2024.
+- “Evaluating Object Recognition Behavior Consistency on Out-of-Distribution Stimuli.” Hunter College Applied Math Seminar, Hunter College, October 28, 2021.
+- “Predictive Model for Obstructive Sleep Apnea using Machine Learning Methods.” Hunter College Undergraduate STEM Research Conference, Hunter College, May 6-7, 2021.
+
+# WORK EXPERIENCE
+## Research Analyst, Flatiron Institute of Simons Foundation, NYC, NY, June 2022-Present
+- Managed internal lab affairs including regulating codebases, maintaining lab website, and communicating with speakers, office administrators, and lab members to coordinate group meetings
+- Directed interviews with professional web developers on behalf of Dr. Chung to hire for website design
+
+## College Assistant, Hunter College Dolciani Math Learning Center, NYC, August 2019- May 2022
 - Working in the walk-in tutoring center, reinforced students’ understanding of precalculus and calculus in preparation for classes in the sciences and advanced mathematics
 - Working in the classroom, assisted students with completing their classwork by answering questions and reinforcing materials through additional examples
-- Tutored students in one-to-one sessions providing individualized approach 
-
-## Undergraduate Teaching Assistant
-Hunter College Computer Science Department, NYC, August 2020-	May 2021
+- Additionally tutored students in one-on-one sessions providing individualized approach
+  
+## Undergraduate Teaching Assistant, Hunter College Computer Science Department, NYC, August 2020- May 2021
 - Tutored students of the Introduction to Computer Science course in Python and C++ programming language, including Python packages such as Matplotlib, Numpy, Pandas, and Folium
-- Helped students complete programming assignments by using examples from lectures to strengthen their critical thinking skills in problem solving and debugging, while motivating them to work independently
+- Helped students with programming assignments by using examples from lectures to strengthen their critical thinking skills in problem solving and debugging, while motivating them to work independently
  
 # PROFESSIONAL DEVELOPMENT
 
