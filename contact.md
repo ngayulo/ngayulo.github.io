@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+# Contact
+
 Work Email: [nyulo@flatironinstitute.org](mailto:nyulo@flatironinstitute.org)
 ---
 

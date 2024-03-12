@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # EDUCATION
 
 >Macaulay Honors College at Hunter College      
