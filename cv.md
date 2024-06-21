@@ -19,7 +19,7 @@ layout: default
 # RESEARCH EXPERIENCE  
      
 ## Research Analyst, Center for Computational Neuroscience 
-**Flatiron Institute of Simons Foundation, NYC, NY, June 2022-Present (PI: Dr. SueYeon Chung)**
+**Flatiron Institute of Simons Foundation, NYC, NY, June 2022-June 2024 (PI: Dr. SueYeon Chung)**
 - Worked on analyzing the geometry of underlying neural representations in artificial and biological
 neural networks, as well as constructing innovative neural network models guided by neuroscience
 - Used methods in statistical physics and machine learning to i) develop extensions of perceptual
