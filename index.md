@@ -7,7 +7,7 @@ Hello! My name is Nga Yu Lo (pronounced Ah-Yu Lo). I am a naturalized American c
 
 <img class="profile-picture" src="/images/headshot22sq.jpg" width="200px"/>
 
-I am an incoming PhD student of Applied Mathematics at the University of Washington. I am interested in the analysis of high dimensional data and structures, with applications in the theory and development of machine learning algorithms. I graduated with my Bachelor of Arts in Math and Computer Science at Macaualy Honors College at Hunter College CUNY. Preciously, I have worked on understanding neural representations in artifiicial neural networks and the biological brain. 
+I am a PhD student of Applied Mathematics at the University of Washington. I am interested in the analysis of high dimensional data and structures, with applications in the theory and development of machine learning algorithms. I graduated with my Bachelor of Arts in Math and Computer Science at Macaualy Honors College at Hunter College CUNY. Preciously, I have worked on understanding neural representations in artifiicial neural networks and the biological brain. 
 
 ## Contact 
 Please email me at nylo3@uw.edu 
