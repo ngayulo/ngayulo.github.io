@@ -62,10 +62,17 @@
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                    {% assign is_active = false %}
+                    {% if x.link == page.url %}
+                        {% assign is_active = true %}
+                    {% endif %}
+                    {% if page.collection == "projects" and x.link == "/projects/" %}
+                        {% assign is_active = true %}
+                    {% endif %}
+                    {% if x.link contains "://" %}
+                        <li class="alignable pull-left nav-list"><a target="_blank" rel="noopener" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a{% if is_active %} class="nav-active"{% endif %} href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
                         /

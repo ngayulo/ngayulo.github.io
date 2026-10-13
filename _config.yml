@@ -1,5 +1,7 @@
 title: Nga Yu Lo
+author: Nga Yu Lo
 url: "https://ngayulo.github.io/"
+description: "Nga Yu Lo - PhD student in Applied Mathematics at the University of Washington, working on high-dimensional data, neural representations, and machine learning theory."
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -14,7 +16,15 @@ sass:
     style: compressed
     sass_dir: _sass
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 nav:
+ - name: "About"
+   link: /
+ - name: "Projects"
+   link: /projects/
  - name: "CV"
    link: https://docs.google.com/document/d/1LxGSA2SA5lf4McDlMcd3Pl7MmZXVMHn0/edit?usp=sharing&ouid=112418304638617458851&rtpof=true&sd=true
-   

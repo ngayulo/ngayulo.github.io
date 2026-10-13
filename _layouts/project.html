@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="project-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.meta %}
+        <p class="project-meta">{{ page.meta }}</p>
+    {% endif %}
+</div>
+
+{% if page.figure %}
+    <figure class="project-hero">
+        <img src="{{ page.figure }}" alt="{% if page.figure_alt %}{{ page.figure_alt }}{% else %}{{ page.title }}{% endif %}">
+        {% if page.caption %}
+            <figcaption>{{ page.caption }}</figcaption>
+        {% endif %}
+    </figure>
+{% endif %}
+
+<div class="project-body">
+    {{ content }}
+</div>
+
+{% if page.pdf or page.poster or page.talk or page.code %}
+    <div class="project-links">
+        <p class="project-links-label">Materials</p>
+        {% if page.pdf %}<a class="project-link-btn" href="{{ page.pdf }}">Paper (PDF)</a>{% endif %}
+        {% if page.poster %}<a class="project-link-btn" href="{{ page.poster }}">Poster</a>{% endif %}
+        {% if page.talk %}<a class="project-link-btn" href="{{ page.talk }}" target="_blank" rel="noopener">Talk</a>{% endif %}
+        {% if page.code %}<a class="project-link-btn" href="{{ page.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+    </div>
+{% endif %}
+
+<a class="project-back" href="/projects/">&larr; All projects</a>

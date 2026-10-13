@@ -1,0 +1,38 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+<h2>Projects</h2>
+
+<p class="project-intro">
+    These are some of my research projects throughout my undergraduate.
+</p>
+
+<div class="project-grid">
+{% assign ordered = site.projects | sort: "order" %}
+{% for p in ordered %}
+    <div class="project-card">
+        <a href="{{ p.url }}">
+            {% if p.thumbnail %}
+                {% assign thumb = p.thumbnail %}
+            {% else %}
+                {% assign thumb = p.figure %}
+            {% endif %}
+            {% if thumb %}
+                <img class="project-card-thumb" src="{{ thumb }}" alt="{{ p.title }}">
+            {% endif %}
+            <div class="project-card-body">
+                <p class="project-card-title">{{ p.title }}</p>
+                {% if p.summary %}
+                    <p class="project-card-summary">{{ p.summary }}</p>
+                {% endif %}
+                {% if p.meta %}
+                    <p class="project-card-meta">{{ p.meta }}</p>
+                {% endif %}
+            </div>
+        </a>
+    </div>
+{% endfor %}
+</div>
