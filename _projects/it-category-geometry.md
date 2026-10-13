@@ -14,7 +14,7 @@ thumbnail: /images/projects/cosyne-figure-thumb.png          # optional; falls b
 caption: "(A) The human intuitive hierarchy organization for 13 manifolds. (B) Capacity, mean raw width, and mean center norm for manifolds at each level of abstraction, compared against manifolds with shuffled labels. Center norm describes a manifold’s distance from the global mean. Raw width summarizes the size of the manifold using points on its convex hull that is derived from capacity theory."
 
 # ---- materials: a button appears only if the field is filled ----
-pdf: files/Category_Hierarchy__Cosyne_.pdf              # e.g. /files/it-category-geometry.pdf
+pdf: /files/Category_Hierarchy__Cosyne_.pdf              # e.g. /files/it-category-geometry.pdf
 poster:               # e.g. /files/it-category-geometry-poster.pdf
 talk: https://youtu.be/ccG6ctQpUZY?t=4201
 code:                 # e.g. https://github.com/ngayulo/...
