@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 875" width="1400" height="875">
+  <defs>
+    <pattern id="h" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#f7f7f5"/>
+      <rect width="12" height="24" fill="#efefec"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="875" fill="url(#h)"/>
+  <text x="700" y="430" text-anchor="middle" font-family="Inconsolata, monospace"
+        font-size="42" letter-spacing="4" fill="#b0b0b0">REPLACE THIS FIGURE</text>
+  <text x="700" y="490" text-anchor="middle" font-family="Inconsolata, monospace"
+        font-size="24" letter-spacing="2" fill="#c2c2c2">export at 1400px wide</text>
+</svg>
